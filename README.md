@@ -11,7 +11,7 @@ This repository sets up a simple AWS VPC with two subnets, an internet gateway, 
 ## How to Use
 
 1. **Clone** this repository.
-2. **Navigate** into the project directory.
+2. **Navigate** into the project directory(/terraform_new_folder).
 3. Run `terraform init` to download required providers.
 4. Run `terraform plan` to see the resources to be created.
 5. Run `terraform apply` to create the VPC, subnets, and other resources.
