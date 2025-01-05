@@ -1,0 +1,16 @@
+# Local Terraform directories
+.terraform/
+.terraform.tfstate.lock.info
+
+# State files
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variable files
+*.tfvars
+
+# Crash logs
+crash.log
+
+# OS-specific files
+.DS_Store
